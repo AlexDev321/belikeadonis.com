@@ -1,0 +1,18 @@
+#Title{
+    font-family: "tilt Neon";
+}
+.title{
+    font-family: "andika";
+}
+.paragraph{
+    font-family: "consolas",sans-serif;
+}
+#main_web{
+    background: linear-gradient(rgb(91, 236, 91), skyblue);
+}
+#workout{
+    background: linear-gradient(rgb(165, 145, 145), lightgray);
+}
+#diet{
+    background: linear-gradient(tomato, rgb(32, 241, 32));
+}
